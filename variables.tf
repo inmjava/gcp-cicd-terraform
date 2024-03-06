@@ -1,3 +1,3 @@
 variable "sigla"{
-    default = "teste"
+    default = "exectest"
 }
